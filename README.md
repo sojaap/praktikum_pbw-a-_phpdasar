@@ -1,4 +1,4 @@
-<img width="1280" height="800" alt="Screenshot 2025-09-26 104509" src="https://github.com/user-attachments/assets/c8881cb3-2082-4ab8-a47a-cba87acdaaba" /># Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
+# Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
 
 Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan form pendaftaran sederhana untuk sebuah event fiktif.
 
