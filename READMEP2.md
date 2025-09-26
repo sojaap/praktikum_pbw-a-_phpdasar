@@ -35,3 +35,5 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 <img width="1280" height="800" alt="tampilan error keduanya" src="https://github.com/user-attachments/assets/921c094c-9067-425b-9399-5908bd35fc2a" />
 <img width="1280" height="800" alt="tampilan error keduanya1" src="https://github.com/user-attachments/assets/fb1d4124-83db-45de-b1c8-a6708b43f4ef" />
 
+- Link to Repo Pertama Git : 
+https://github.com/sojaap/praktikumsatu_git
