@@ -1,4 +1,4 @@
-# Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
+<img width="1280" height="800" alt="Screenshot 2025-09-26 104509" src="https://github.com/user-attachments/assets/c8881cb3-2082-4ab8-a47a-cba87acdaaba" /># Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
 
 Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan form pendaftaran sederhana untuk sebuah event fiktif.
 
@@ -27,4 +27,11 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 - *Error saat validasi tanggal lahir yang tidak sesuai dengan format*
 <img width="1280" height="800" alt="tampilan error form1" src="https://github.com/user-attachments/assets/d434bdb2-ea11-46d6-93fb-34b659d59159" />
 
+- *Error saat validasi alamat email yang tidak sesuai dengan format*
+  <img width="1280" height="800" alt="Screenshot 2025-09-26 104509" src="https://github.com/user-attachments/assets/fa2f2d1e-16e1-4a3c-81e5-319c957b43ff" />
+<img width="1280" height="800" alt="Screenshot 2025-09-26 104536" src="https://github.com/user-attachments/assets/574be6e2-6c42-4237-abc4-12939118b104" />
+
+- *Error saat validasi tanggal lahir dan alamat email yang tidak sesuai dengan format*
+<img width="1280" height="800" alt="tampilan error keduanya" src="https://github.com/user-attachments/assets/921c094c-9067-425b-9399-5908bd35fc2a" />
+<img width="1280" height="800" alt="tampilan error keduanya1" src="https://github.com/user-attachments/assets/fb1d4124-83db-45de-b1c8-a6708b43f4ef" />
 
