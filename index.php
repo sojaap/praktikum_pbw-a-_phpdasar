@@ -127,7 +127,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <hr>
 
     <h2>Daftar Peserta yang Sudah Mendaftar</h2>
-    // menampilkan daftar peserta
     <table>
     <thead>
         <tr>
